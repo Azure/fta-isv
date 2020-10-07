@@ -1,3 +1,7 @@
+# Introduction
+
+This repository is for hosting public content from the FastTrack for Azure ISV organization that falls 
+outside of the normal channels for content (e.g. Microsoft Docs).
 
 # Contributing
 
