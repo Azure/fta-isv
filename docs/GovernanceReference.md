@@ -11,6 +11,8 @@ Thank you for taking the time to learn about Azure Governance in an ISV/Startup 
 * <https://docs.microsoft.com/learn/modules/examine-azure-subscriptions/5-explore-management-groups>
 * <https://docs.microsoft.com/azure/governance/management-groups/overview>
 * <https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-get-started>
+* <https://docs.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription>
+* <https://docs.microsoft.com/en-us/azure/resource-mover/move-region-within-resource-group>
 * <https://docs.microsoft.com/azure/azure-resource-manager/managed-applications/overview#resource-groups-for-managed-applications>
 * <https://medium.com/@ArsenVlad/simple-azure-managed-application-creating-testing-and-publishing-in-partner-center-d2cb3b98bed2>
 * <https://docs.microsoft.com/learn/modules/discuss-core-azure-architectural-components/8-explore-resource-groups>
