@@ -1,2 +1,2 @@
 # fta-isv
-FastTrack for Azure, ISV public content
+This is FastTrack for Azure, ISV public content.
