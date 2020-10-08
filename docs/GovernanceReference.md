@@ -25,3 +25,6 @@ Thank you for taking the time to learn about Azure Governance in an ISV/Startup 
 * <https://docs.microsoft.com/en-us/learn/modules/describe-azure-governance-methodologie/2-define-azure-policy>
 * <https://docs.microsoft.com/en-us/learn/modules/describe-azure-governance-methodologie/3-implement-azure-policy>
 * <https://docs.microsoft.com/en-us/learn/modules/describe-azure-governance-methodologie/4-define-policy-initiatives>
+* <https://docs.microsoft.com/en-us/learn/modules/describe-azure-governance-methodologie/10-explore-azure-blueprints>
+* <https://docs.microsoft.com/en-us/azure/governance/blueprints/overview>
+
