@@ -19,11 +19,6 @@ TZOFFSETTO:-0400
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-ATTENDEE;CN="Michael C. Bazarewsky";RSVP=TRUE:mailto:Michael.Bazarewsky@mic
-	rosoft.com
-ATTENDEE;CN="Kevin Wittkopf";RSVP=TRUE:mailto:kewitt@microsoft.com
-ATTENDEE;CN="Kristina Williams";RSVP=TRUE:mailto:Kristina.Williams@microsof
-	t.com
 CLASS:PUBLIC
 CREATED:20201007T175936Z
 DESCRIPTION: \n\n__________________________________________________________
