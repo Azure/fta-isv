@@ -3,6 +3,8 @@
 This repository is for hosting public content from the FastTrack for Azure ISV organization that falls 
 outside of the normal channels for content (e.g. Microsoft Docs).
 
+You can find the "formal" web version of the content at [GitHub Pages](https://azure.github.io/fta-isv/).
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
