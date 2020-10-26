@@ -1,4 +1,4 @@
-<link rel="shortcut icon" href="https://github.com/Azure/fta-isv/favicon.ico" />
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/Azure/fta-isv/main/docs/favicon.ico" />
 # One-to-Many Office Hours
 
 Thank you for your interest in the FastTrack for Azure ISV and Startups One-to-Many Sessions!

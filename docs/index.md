@@ -1,4 +1,4 @@
-<link rel="shortcut icon" href="https://github.com/Azure/fta-isv/favicon.ico" />
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/Azure/fta-isv/main/docs/favicon.ico" />
 # Welcome!
 
 The following items can be found here:

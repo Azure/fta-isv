@@ -1,4 +1,4 @@
-<link rel="shortcut icon" href="https://azure.github.io/fta-isv/favicon.ico" />
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/Azure/fta-isv/main/docs/favicon.ico" />
 # One-to-Many Governance Reference
 
 <!-- gawk '{ if (match($0,/<http[^>]+>/,m)) print m[0] }' 01-governance-grouping-resources.md -->
