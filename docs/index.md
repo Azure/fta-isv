@@ -1,9 +1,4 @@
----
-layout: home
-title: FTA ISV Public Content Home
-description: Public content home page for FastTrack for Azure ISV
-permalink: /
----
+<link rel="shortcut icon" href="https://github.com/Azure/fta-isv/favicon.ico" />
 # Welcome!
 
 The following items can be found here:
