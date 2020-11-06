@@ -28,3 +28,10 @@ Thank you for taking the time to learn about Azure Governance in an ISV/Startup 
 * <https://docs.microsoft.com/en-us/learn/modules/describe-azure-governance-methodologie/10-explore-azure-blueprints>
 * <https://docs.microsoft.com/en-us/azure/governance/blueprints/overview>
 
+## Part III: ISV Summary
+* <https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deploy-to-subscription?tabs=azure-cli>
+* <https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/cancel-azure-subscription>
+* <https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#resource-group-limits>
+* <https://docs.microsoft.com/en-us/azure/governance/blueprints/concepts/lifecycle>
+* <https://docs.microsoft.com/en-us/azure/governance/blueprints/how-to/import-export-ps>
+
