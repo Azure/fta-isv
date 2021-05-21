@@ -7,7 +7,7 @@ Thank you for taking the time to learn about AKS Infrastrucutre Multitenancy in 
 * [Best practices for scheduler features - Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-advanced-scheduler)
 * [Best practices for managing identity - Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/operator-best-practices-identity)
 * [Azure Policy Regulatory Compliance controls for Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/security-controls-policy)
-* [Secure pod traffic with network policy - Azure Kubernetes Service | Microsoft Docs](https://docs.microsoft.com/en-us/azure/aks/use-network-policies) 
+* [Secure pod traffic with network policy - Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/use-network-policies) 
 
 ## Kubernetes
 * [Limit Ranges](https://kubernetes.io/docs/concepts/policy/limit-range/)
