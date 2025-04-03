@@ -1,3 +1,7 @@
+# IMPORTANT
+
+With the disbanding of the FT-ISV program, this repository is being archived and will no longer be maintained.
+
 # Introduction
 
 This repository is for hosting public content from the FastTrack for Azure ISV organization that falls 
